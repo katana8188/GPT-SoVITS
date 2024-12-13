@@ -1,2 +1,2 @@
-runtime\python.exe inference_gui.py zh_CN
+runtime\python.exe GPT_SoVITS\inference_gui.py zh_CN
 pause
